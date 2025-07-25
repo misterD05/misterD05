@@ -23,5 +23,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/> 
 </div>
 
+## 🔥My stats:
+
 ![misterD05's Github Stats Donut](https://github-readme-stats.vercel.app/api/top-langs/?username=misterD05&layout=donut&hide_border=true&theme=transparent)
 ![misterD05's Github Stats](https://github-readme-stats.vercel.app/api?username=misterD05&show_icons=true&layout=compact&hide_border=true&theme=transparent)
