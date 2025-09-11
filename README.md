@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 
 ## 📑Studing:
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c++/c++-original-wordmark.svg" title="C++" alt="Java" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" title="Kotlin" alt="Java" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c++/c++-original-wordmark.svg" title="C++" alt="C++" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>
 </div>
 
 ## 🔥My stats:
