@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 
 -->
-## 🧰Languages and tools: 
+🧰Languages and tools: 
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
@@ -18,13 +18,13 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/> 
 </div>
 
-## 📑Studing:
+📑Studing:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>
 </div>
 
-## 🔥My stats:
+🔥My stats:
 
 ![misterD05's Github Stats Donut](https://github-readme-stats.vercel.app/api/top-langs/?username=misterD05&layout=donut&hide_border=true&theme=transparent)
 ![misterD05's Github Stats](https://github-readme-stats.vercel.app/api?username=misterD05&show_icons=true&layout=compact&hide_border=true&theme=transparent)
