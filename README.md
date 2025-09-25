@@ -7,11 +7,6 @@ Here are some ideas to get you started:
 
 
 -->
-<div>
-  - 🔭 I’m currently working on ... something <br>
-  - 🌱 I’m currently learning ... everytime
-</div>
-
 ## 🧰Languages and tools: 
 
 <div>
