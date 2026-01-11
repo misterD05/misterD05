@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi, here myu dashboard 🧮
 
 <!--
 **misterD05/misterD05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 
 
--->
-<!--
+
+
 ## 🧰Languages and tools: 
 
 <div>
@@ -18,14 +18,14 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/> 
 </div>
--->
+
 ## 📑Studing:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
 </div>
-
+-->
 ## 🔥My stats:
 
 ![misterD05's Github Stats Donut](https://github-readme-stats.vercel.app/api/top-langs/?username=misterD05&layout=donut&hide_border=true&theme=transparent)
