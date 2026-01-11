@@ -28,5 +28,4 @@ Here are some ideas to get you started:
 -->
 ## 🔥My stats:
 
-![misterD05's Github Stats Donut](https://github-readme-stats.vercel.app/api/top-langs/?username=misterD05&layout=donut&hide_border=true&theme=transparent)
-![misterD05's Github TRY](https://github-readme-stats.vercel.app/api?username=misterD05&show_icons=true&theme=radical)
+Working in progress ---> the project for the dashboard is private, coming soon
