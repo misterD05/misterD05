@@ -29,3 +29,5 @@ Here are some ideas to get you started:
 ## 🔥My stats:
 
 Working in progress ---> the project for the dashboard is private, coming soon
+![Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=misterD05)
+
