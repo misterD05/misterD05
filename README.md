@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 -->
 ## 🔥My stats:
 
-Working in progress ---> the project for the dashboard is private, coming soon
+Working in progress ---> the project for the dashboard is private, **COMING SOON** 🔥🕚
 
