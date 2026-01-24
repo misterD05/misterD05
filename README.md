@@ -29,4 +29,5 @@ Here are some ideas to get you started:
 ## 🔥My stats:
 
 Working in progress ---> the project for the dashboard is private, **COMING SOON** 🔥🕚
-
+## Try of my api on vercel:
+![misterD05's infos](https://github-stats-dashboard-xi.vercel.app/api/infoAccount/misterD05)
