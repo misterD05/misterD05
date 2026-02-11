@@ -32,5 +32,5 @@ Working in progress ---> the project for the dashboard is private, **COMING SOON
 ## Try of my api on vercel:
 <!--![misterD05's infos](https://github-stats-dashboard-xi.vercel.app/api/infoAccount/misterD05)
 -->
-![misterD05's aerogram](https://github-stats-dashboard-xi.vercel.app/api/dashboard/misterD05)
+![misterD05's aerogram](https://github-stats-dashboard-xi.vercel.app/api/donutLanguages/misterD05)
 
