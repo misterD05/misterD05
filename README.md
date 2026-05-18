@@ -33,6 +33,6 @@ Working in progress ---> the project for the dashboard is private, **COMING SOON
 <!--![misterD05's infos](https://github-stats-dashboard-xi.vercel.app/api/infoAccount/misterD05)
 -->
 ![misterD05's aerogram](https://github-stats-dashboard-xi.vercel.app/api/donutLanguages/misterD05)
-![misterD05's stats](https://github-stats-dashboard-xi.vercel.app/api/generalStats/misterD05/violet)
-![misterD05's hexStats](https://github-stats-dashboard-xi.vercel.app/api/hexagonalStats/misterD05/blue)
+<!--![misterD05's stats](https://github-stats-dashboard-xi.vercel.app/api/generalStats/misterD05/violet)-->
+![misterD05's hexStats](https://github-stats-dashboard-xi.vercel.app/api/hexagonalStats/misterD05/amber)
 
