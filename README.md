@@ -1,11 +1,11 @@
-# Hi, here my dashboard 🧮
+
 
 <!--
 **misterD05/misterD05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-
+# Hi, here my dashboard 🧮
 
 
 ## 🧰Languages and tools: 
@@ -25,13 +25,17 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
 </div>
--->
-## 🔥My stats:
 
-## Try of my api on vercel (Work in progress):
+
+## 🔥My stats:
+-->
+
+
+
 <!--![misterD05's infos](https://github-stats-dashboard-xi.vercel.app/api/infoAccount/misterD05)
 -->
+![misterD05's hexStats](https://github-stats-dashboard-xi.vercel.app/api/hexagonalStats/misterD05/amber)
 ![misterD05's aerogram](https://github-stats-dashboard-xi.vercel.app/api/donutLanguages/misterD05)
 <!--![misterD05's stats](https://github-stats-dashboard-xi.vercel.app/api/generalStats/misterD05/violet)-->
-![misterD05's hexStats](https://github-stats-dashboard-xi.vercel.app/api/hexagonalStats/misterD05/amber)
+Try of my api on vercel (https://github-stats-dashboard-xi.vercel.app)
 
